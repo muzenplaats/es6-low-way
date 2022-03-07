@@ -10,7 +10,7 @@ An embedded assembly language for JavaScript low way.
 <!-- The standalone="yes" is for a test. -->
 <!--?? <?xml version="1.1" lang="UTF-8" standalone="no"?> ??-->
 
-<?low-way "version=6.0" lang="asm"
+<?low-way version="6.0" lang="asm"
   % Syntatic sugar test
   Move a to [an-address|reg-n].
   Move reg-n [b|an-address].
